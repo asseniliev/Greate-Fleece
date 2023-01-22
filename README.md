@@ -6,7 +6,8 @@ The course itself is constructed on learn by doing principle; each game feature 
 ## Project progress
 21-Jan-2023: 
   - Project created; asset [The Greate Fleece](https://assetstore.unity.com/packages/templates/tutorials/the-great-fleece-110186) imported from the Asset Store
-  - Ended up with video 181 - Albedo channel: practice working with Standard shader, attach texture to an object, manipulating with 'Metalic' and 'Smoothness' properties
+  - Ended up with video 181 - Albedo channel: practice working with Standard shader, attach texture to an object, manipulating with 'Metalic' and 'Smoothness' properties.
+
 22-Jan-2023:
   - Meshes and sub-meshes; using array of materials in 'Mesh Renderer' component
   - Creation of new materials and assignment of materials to meshes. Transparent glass material with standard shader / Transparent rendering mode.
