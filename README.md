@@ -13,4 +13,4 @@ The course itself is constructed on learn by doing principle; each game feature 
   !['Basic materials Practice'](/Pics/Basic%20Material%20Practice%201.JPG)   
   - Challenge: make-up the painting wall: task is to put materials on the painting wall and make it look as the provided template. My result (template is at the left, my work is at the ight):
   !['Painting wall challenge'](/Pics/Painting%20wall.JPG)
-  - Usage of occlusion maps to create false shadows
+  - Usage of occlusion maps to create false shadows; ended up with video 186
